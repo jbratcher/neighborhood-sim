@@ -1,6 +1,7 @@
-# React Starter Kit
+# Neighborhood Sim
 
-My personal React starter project featuring SASS, Font Awesome, and Github pages deploy.
+React SPA browser neighborhood simulator  
+[Demo Page](http://github.com)
 
 
 

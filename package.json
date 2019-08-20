@@ -1,8 +1,8 @@
 {
-  "name": "life-sim",
+  "name": "neighborhood-sim",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jbratcher.github.io/react-starter-kit",
+  "homepage": "https://jbratcher.github.io/neighborhood-sim",
   "_comment": "https://Your-Github-Username.github.io/Your-Repo-Name",
   "dependencies": {
     "node-sass": "^4.12.0",
