@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neightborhood-sim/precache-manifest.7a1e55fadaf4d93459e45690ef64ed88.js"
+  "/neightborhood-sim/precache-manifest.1f90741ecb7404701a3245e38deab917.js"
 );
 
 self.addEventListener('message', (event) => {
